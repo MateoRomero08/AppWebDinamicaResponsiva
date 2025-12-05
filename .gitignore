@@ -1,0 +1,28 @@
+# NetBeans
+nbproject/private/
+build/
+dist/
+nbproject/genfiles.properties
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Database / config
+*.sql
+*.env
+config.properties
